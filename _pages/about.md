@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Siddharth's website"
+title: "Welcome to Kartik's website"
 excerpt: ""
 author_profile: true
 redirect_from:
