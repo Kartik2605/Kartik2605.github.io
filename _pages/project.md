@@ -33,7 +33,8 @@ Two main blocks of parallelism are utilized: the first block handles memory allo
 
 * **Computer vision based game controller**: It is a 3D third player control spaceshooting and a mission game. The moto of the project of making game is to try to get an imersive experience of gameplay. In these the head movements control the 6 degrees of motion of the spaceship and shooting is control by hand gestures.
   - Control with a webcam which detects landmarks on face and calculates the head pose parameters using PnP algorithm. The open source OpenFace software was used.
-  - The hand gesture used for shooting is implemented using mediapipe in-built algorithm. 
+  - The hand gesture used for shooting is implemented using mediapipe in-built algorithm.
+  
 Its integrated with unity using its python compatibility and socket programming. Unity is used to develope game. It was showcased at the OpenHoue at IIT Madras. [[Code]](https://github.com/Kartik2605/REBOOT--CVI)
 
 <!-- * **Music with Numbers**: I like to play piano when I am bored or want to cheer myself. I have always been intrigued by Beethoven's music. I came across a video about the math behind some of his musical masterpieces which inspierd me to write this small piece of code to convert the first few digits of ![pi](http://latex.codecogs.com/gif.latex?%5Cpi) and ![e](http://latex.codecogs.com/gif.latex?e) to music on different pentatonic scales. Different scales can be chosen to make the music with numbers. Here are examples of music generated from [pi](https://drive.google.com/file/d/1xqlR9W704Lurq1qHxuNgQ2DjXlNhA3L8/view?usp=sharing) and [e](https://drive.google.com/file/d/1BCA1s1jsqApCm0oZtBV60-okhJHtmDkn/view?usp=sharing). [[Code]](https://github.com/nsidn98/Music-with-numbers) -->
