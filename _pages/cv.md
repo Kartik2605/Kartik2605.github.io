@@ -114,20 +114,6 @@ redirect_from:
 # Mentoring
 
 Mentored underprivileged students for JEE (one of Asia's toughest undergraduate entrance exams) as part of pan-India NGO Avanti Fellows.
-<!-- A list of budding engineers I have mentored:
-
-- Wenqi Ding (EECS, S.B., MIT) 2022, 2024
-- Vittal Thirumalai (EECS, S.B.+ M.Eng.), 2024
-- Jackson Zhang (EECS, S.B.+ M.Eng.), 2024
-- Adelmo Morrison Orozco (EECS + Math, S.B.) 2024
-- Marina Ten Have (EECS + AI, S.B.) 2024
-- Darren Chen (EECS, S.B.) 2024
-- Daniel Liu (EECS, M.Eng.) 2021-2022
-- Kenneth Choi (EECS, S.B.) 2022
-- Carson Smith (EECS, M.Eng) 2021
-- Laura Peralta (Electrical and Electronics, B.E.; Hampton University) 2021
-- Akila Sarvanan (AeroAstro, S.B.; MIT) 2021
-- Simran Pabla (AeroAstro, M.Eng.; MIT) 2021 -->
 
 # Honors and Awards
 
