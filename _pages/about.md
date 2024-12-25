@@ -8,26 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the AeroAstro Department at MIT. My research interest lies in multi-agent robotics especially in partially observable settings with limited communication bandwidth. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my research.
+I am currently a final year dual degree student at IIT Madras, pursuing an integrated program in Computational Engineering. My primary research interests lie in computational methods for turbulence physics and optimisation problems, with a strong focus on their applications to real-world engineering challenges. I am passionate about data-driven and hybrid methodologies that combine deep learning with traditional models to advance solutions in this domain. I have worked on in-house CFD codes, implementations based on LBM, FNPT-RANS coupled solver. I have also co-founded a student team at IIT Madras that designs and builds solar-powered car, representing India in international competitions such as the World Solar Challenge.
 
-My PhD thesis is on learning-based methods for multi-agent robotics focussing on:
 
-- Scaling MARL in partially observable systems
-- Long-horizon planning for multi-agent robotics
-- Creating human-interpretable communication protocols for MARL methods
 
-**I am currently on the job market for 2025**.
+My dual degree thesis project is based on particle laden flow simulations in Simple and Highly Stable Lattice Boltzmann Method based solver:
 
-You can find my publications [here](https://nsidn98.github.io/publications/).
+- Sub-grid scale models copling and validation
+- Single Jet flow simulations with synthetic eddy method for inlet tubulence
+- Particle flow simulations with one way coupling and validation
+- Study particle distribution over time in jet flows for size distributions
 
-In addition to my research, I like playing musical instruments like guitar, bass, piano, drums, recorder. You can find some of my guitar videos on [instagram](https://www.instagram.com/nsidn98_/).
-I am also into [sketching](https://drive.google.com/drive/folders/1NsuQx0Xl9pQ5V_EsmRd8-qbaLd2zO-Gk), [astrophotography](https://docs.google.com/presentation/d/1IXEQaMT4YNwtfmGf4ktiFaTfVXWCZLqqv2AeThw02LI/edit?usp=sharing), playing tennis, badminton, cricket and swimming.
+**I am currently looking for PhD positions**.
+
+
+Outside of my academic pursuits, I like to spend time painting. I like sketching and in acrylic medium, have also explored madala artform and can find my artworks on my [pinterest](https://pin.it/2c8Ym5D8z) profile.
+I also like playing musical instruments like the ukulele, tabla, cajon and playing badminton, cricket. I take pride in giving back to community by mentoring jee aspirants & juniors and have been part of NGO [Avanti Fellows](https://www.avantifellows.org/) as a mentor. 
 
 ## Contact Me
 
 ---
 
-I am glad to discuss research ideas related to robotics, reinforcement learning and anything related to engineering and science! If you have any exciting ideas, please drop me an email.
+I am always excited to discuss research ideas related to computational fluid dynamics, deep learning and anything related to engineering and innovation! If you have any ideas, please drop me an email.
 
 <!---
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=150&t=tt&d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>

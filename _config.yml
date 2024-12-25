@@ -7,13 +7,13 @@
 
 # Site Settings
 locale: "en-US"
-title: "Siddharth Nayak"
+title: "Kartik Ruikar"
 title_separator: "-"
-name: &name "Siddharth Nayak's Website"
+name: &name "Kartik Ruikar's Website"
 description: &description "personal description"
-url: https://nsidn98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://Kartik2605.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "nsidn98/nsidn98.github.io"
+repository: "Kartik2605/Kartik2605.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -80,14 +80,14 @@ google_analytics: UA—163839465-1
 
 # Site Author
 author:
-  name: "Siddharth Nayak"
-  avatar: "sid.jpg"
-  bio: "PhD Student at MIT"
-  location: "Cambridge, MA"
+  name: "Kartik Ruikar"
+  avatar: "kartik.jpg"
+  bio: "Dual Degree student at IIT Madras"
+  location: "Chennai, India"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ" #"http://yourfullgooglescholarurl.com"
-  email: "sidnayak@mit.edu"
+  # googlescholar: "https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ" #"http://yourfullgooglescholarurl.com"
+  email: "mastkartik@smail.iitm.ac.in"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -96,20 +96,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "nsidn98"
+  github: "Kartik2605"
   google_plus:
   keybase:
-  instagram: "https://www.instagram.com/nsidn98_/"
+  instagram: "https://www.instagram.com/kartik__2605/"
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "https://www.linkedin.com/in/nsidn98/"
+  linkedin: "https://www.linkedin.com/in/kartik-ruikar-2605/"
   orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
-  stackoverflow: 8421999/nsidn98
+  # stackoverflow: 8421999/nsidn98
   steam:
   tumblr:
-  twitter: #"replacethistwitterhandle"
+  twitter: "https://x.com/kartik_2605?t=sHTLd7qXlHnmU-RjKrtt7w&s=08"
   vine:
   weibo:
   xing:
