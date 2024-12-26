@@ -56,4 +56,4 @@ I generally like drawing naturescape and natural environment. Most of the painti
 ****************************************
 ## Contact Me ##
 ****************************************
-I would be glad to have discussions on any of the above topics related to sports, music, painting  languages.
+I would be glad to have discussions on any of the above topics related to sports, music, painting and languages.

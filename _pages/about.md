@@ -14,15 +14,15 @@ I am currently a final year dual degree student at IIT Madras, pursuing an integ
 
 My dual degree thesis project is based on particle laden flow simulations in Simple and Highly Stable Lattice Boltzmann Method based solver:
 
-- Sub-grid scale models copling and validation
+- Sub-grid scale models coupling and it's validation
 - Single Jet flow simulations with synthetic eddy method for inlet tubulence
-- Particle flow simulations with one way coupling and validation
-- Study particle distribution over time in jet flows for size distributions
+- Particle flow simulations with one way coupling and it's validation
+- Study particle distribution over time in jet flows for various particle size distributions
 
 **I am currently looking for PhD positions (Fall - 2025)**.
 
 
-Outside of my academic pursuits, I like to spend time painting. I like sketching and in acrylic medium, have also explored madala artform and you can find my artworks on my [pinterest](https://pin.it/2c8Ym5D8z) profile.
+Outside of my academic pursuits, I like to spend time painting. I like sketching and also painting in acrylic medium, have explored mandala artform and you can find my artworks on my [pinterest](https://pin.it/2c8Ym5D8z) profile.
 I also like playing musical instruments like the ukulele, tabla, cajon and also playing sports mostly badminton and cricket. I take pride in giving back to community by mentoring jee aspirants & juniors and have been part of NGO [Avanti Fellows](https://www.avantifellows.org/) as a mentor. 
 
 ## Contact Me
