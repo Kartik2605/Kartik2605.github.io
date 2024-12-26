@@ -113,7 +113,7 @@ redirect_from:
 
 # Mentoring
 
-Mentored underprivileged students for JEE (one of Asia's toughest undergraduate entrance exams) as part of pan-India NGO Avanti Fellows.
+Mentored underprivileged students for JEE (one of Asia's toughest undergraduate entrance exams) as part of pan-India NGO [Avanti Fellows](https://www.avantifellows.org/).
 
 # Honors and Awards
 
