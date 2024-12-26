@@ -49,7 +49,7 @@ I would like to learn more languages like Mandarin, French and Spanish along wit
 
 
 ****************************************
-## Sketching: ##
+## Painting: ##
 I generally like drawing naturescape and natural environment. Most of the paintings linked are from the pandemic break. It has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
 
 
