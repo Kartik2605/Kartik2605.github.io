@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final year dual degree student at IIT Madras, pursuing an integrated program in Computational Engineering. My primary research interests lie in computational methods for turbulence physics and optimisation problems, with a strong focus on their applications to real-world engineering challenges. I am passionate about data-driven and hybrid methodologies that combine deep learning with traditional models to advance solutions in this domain. I have worked on in-house CFD codes, implementations based on LBM, FNPT-RANS coupled solver. I have also co-founded a student team at IIT Madras that designs and builds solar-powered car, representing India in international competitions such as the World Solar Challenge.
+I am currently a final year dual degree student at IIT Madras, pursuing an integrated program in Computational Engineering. My primary research interests lie in high-fidelity simulation methods for turbulence physics, with a strong focus on their applications to real-world engineering challenges. I am also very excited about data-driven hybrid methodologies that combine deep learning with traditional models to advance solutions in this domain. I have worked on in-house CFD codes, implementations based on LBM, FNPT-RANS coupled solver. I have also co-founded a student team at IIT Madras that designs and builds solar-powered car, representing India in international competitions such as the World Solar Challenge.
 
 
 
