@@ -22,7 +22,7 @@ redirect_from:
 
 # Work experience
 
-- Mechanical Dept, IIT Madras, Graduate Research Assistant - Summer 2024-Summer 2025
+- Mechanical Dept, IIT Madras, Graduate Research Assistant, May 2024 - June 2025
 
   - Advisor: [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/)
     - Developed GPU-accelerated LES modules for solver using OpenACC, implementing subgrid-scale (SGS) models and synthetic eddy method for realistic inlet turbulence generation.
