@@ -124,11 +124,10 @@ Mentored underprivileged students for JEE (one of Asia's toughest undergraduate 
 
 - Turbulence modeling
 - Parallel scientific computing
-- GPU Programming*
-- Advanced Computational Fluid Dynamics*
+- Advanced Computational Fluid Dynamics
 - Numerical Linear Algebra
-- Meshfree methods
-- Probability, Statistics and Stochastic Process
+- Meshfree methods for applied to hydrodynamics
+- FEM applied to ocean engineering
 - Mathematical foundations of Data Science
 - Deep Learning Specialisation by Andrew Ng (coursera)
 
@@ -138,4 +137,4 @@ Mentored underprivileged students for JEE (one of Asia's toughest undergraduate 
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-For a detailed CV/resume please email me at `mastkartik at smail dot iitm dot ac dot in`
+For a detailed CV/resume please email me at `na20b053 at smail dot iitm dot ac dot in`
