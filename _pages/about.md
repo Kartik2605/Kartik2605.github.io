@@ -12,12 +12,12 @@ I am currently a final year dual degree student at IIT Madras, pursuing an integ
 
 
 
-My dual degree thesis project is based on particle laden flow simulations in Simple and Highly Stable Lattice Boltzmann Method based solver:
+My dual degree thesis project is based on GPU-accelerated large eddy simulations using Simple and Highly Stable Lattice Boltzmann method :
 
-- Sub-grid scale models coupling and it's validation
-- Single Jet flow simulations with synthetic eddy method for inlet tubulence
-- Particle flow simulations with one way coupling and it's validation
-- Study particle distribution over time in jet flows for various particle size distributions
+- parallelised implementation of sub-grid scale models
+- Comparision study of SGS models and validation for wall-bounded flow (lid driven cavity case at Re 12k)
+- Validation for free shear flow (circular jet flow case at Re 8.4k)
+- Application of validated model and optimal simulation approach to indoor model room ventilation case
 
 **I am currently looking for PhD positions (Fall - 2025)**.
 
