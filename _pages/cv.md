@@ -16,7 +16,7 @@ redirect_from:
 
 # Thesis
 
-- Particle-laden flow simulations using Simple and Highly Stable Lattice Boltzmann Method
+- GPU-accelerated large eddy simulations using simplified lattice boltzmann method
   - Dual Degree Thesis, Indian Institute of Technology, 2025
   - Advisor: Prof. Kameshwarrao Anupindi
 
@@ -25,12 +25,10 @@ redirect_from:
 - Mechanical Dept, IIT Madras, Graduate Research Assistant - Summer 2024-Present
 
   - Advisor: [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/)
-    - Coupled and validated sub-grid scale models to model turbulence (GPU-parallelized using OpenACC), against benchmark 3D lid-driven cavity flow capturing boundary-induced turbulence.
-    - Implemented and validated module for particle-laden flow (in FORTRAN), which uses an Eulerian–Lagrangian approach to model the carrier and the dispersed phase respectively, against the benchmark experimental data in circular turbulent jet flows.
-    - Implementing a higher-order scheme based on the concepts of virtual streaming nodes and higher-order interpolation, following the work of
-    [Zhen Chen and Chang Shu](https://pubs.aip.org/aip/pof/article/30/10/103605/989749).
-    - Studying the evolution of poly-disperse particles in jet flow and indoor ventilation cases. This has practical implications in air
-    quality control in industrial ventilation systems
+    - Developed GPU-accelerated LES modules for solver using OpenACC, implementing subgrid-scale (SGS) models and synthetic eddy method for realistic inlet turbulence generation.
+    - Conducted validation study comparing SGS models (Smagorinsky, Vreman, WALE, Sigma) for wall-bounded (lid-driven cavity) and free-shear (jet flow) cases, identifying optimal approach.
+    - Applied validated models and approach to a model room ventilation flow case, achieving good agreement ( 20% mean deviation error) with experimental data from a reference study.
+    - Accepted to present these findings at the upcoming INCOTHERM1 conference, with plans for subsequent first author journal publication.
 
 - LMFTEUS, Universite de Sherbrooke, Research Intern, Summer 2023
 
