@@ -1,6 +1,12 @@
 ---
-title: "My Medium Blog: [Your Blog Title Here]"
-excerpt: "A short summary of my Medium blog post."
+title: "How I found PhD position in Aerospace"
+date: 2025-06-24
+permalink: /posts/2020/06/grad_school/
+image: /images/graduate-school-applications.jpg
+tags:
+  - graduate school
+  - MIT
+  - memes
 ---
 
 ## [How I found PhD position in Aerospace](https://medium.com/your-blog-url)
