@@ -14,12 +14,12 @@ We started as an interest group under the guidance of [Prof. Sivakumar Srinivasa
 ## Course Projects:
 ****************************************
 
-**2D solitary wave simulations using Moving Particle Semi-implicit (MPS) meshfree method in C++ (2023)**
+**2D solitary wave simulations using Moving Particle Semi-implicit (MPS) meshfree method in C++ (2023)**  
 *Guide : Prof. Sriram V*
 
 A course project for the OE6020 - Meshfree methods applied to hydrodynamics Fall 2023 course at IIT Madras by [Prof. Sriram V](https://home.iitm.ac.in/vsriram/). Understanding and accurately predicting the dynamics of water surfaces are essential for designing structures, optimizing coastal defences, and ensuring the safety of maritime activities. In this project, I delved into the realm of numerical methods for fluid simulation, focusing on the Moving Particle Semi-Implicit (MPS) method—a mesh-free approach renowned for its versatility in capturing complex fluid behaviours. The MPS method is chosen for its ability to model free surfaces and fluid inter- actions without the constraints of a fixed grid. It employs particles to represent the fluid, enabling the simulation of dynamic free surfaces and fluid flows with greater flexibility than traditional grid-based methods. The report gives a detail overiew of the model implementation and using it for simulating different 2D waveforms. It is validated for a 2D solitary wave form against the standard benchmark case found in the literature. [[PDF]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method/blob/main/Report.pdf) [[Code]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method)
 
-**Parallelisation of Classical LBM using OpenACC in C++ and evaluation on 2D lid driven cavity turbulence phenomenon (2024)**
+**Parallelisation of Classical LBM using OpenACC in C++ and evaluation on 2D lid driven cavity turbulence phenomenon (2024)**  
 *Guide : Prof. Kameshwarrao Anupindi*
 
 A course project for the ID5130 - Parallel Scientific Computing Spring 2024 course at IIT Madras by [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/). This project presents the implementation of a classical Lattice Boltzmann Method (LBM) in C++ and its parallelization using OpenACC. The LBM solver exhibits significant potential for parallelization, particularly in the collision and streaming steps, which collectively consume around 90% of the total simulation time. To facilitate efficient computation, an abstract data structure is employed to store distribution values at each grid point. The implementation begins with the initialization of velocity, density, and distribution function vectors, followed by the execution of collision, streaming, and boundary condition application steps. The process iterates until a convergence criterion based on the error in velocities within a specified tolerance is met.
@@ -49,4 +49,3 @@ Its integrated with unity using its python compatibility and socket programming.
 
 
 
-  
