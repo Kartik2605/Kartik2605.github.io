@@ -50,7 +50,11 @@
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.leetcode %}
-        <li><a href="https://leetcode.com/u/{{ author.leetcode }}"><i class="fab fa-fw fa-leetcode" aria-hidden="true"></i> Leetcode</a></li>
+        <li>
+          <a href="https://leetcode.com/u/{{ author.leetcode }}">
+            <img src="/images/leetcode.svg" alt="LeetCode" style="width:1em;height:1em;vertical-align:middle;"> Leetcode
+          </a>
+        </li>
       {% endif %}
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
