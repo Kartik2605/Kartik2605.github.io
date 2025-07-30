@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,14 +11,14 @@ redirect_from:
 
 # Education
 
-- M.Tech, Computational Engineering, IIT Madras, (Expected 2025)
-- B.Tech, Ocean Engineering, IIT Madras, (Expected 2025)
+- M.Tech, Computational Engineering, IIT Madras (2025)
+- B.Tech, Ocean Engineering, IIT Madras (2025)
 
 # Thesis
 
 - GPU-accelerated large eddy simulations using simplified lattice boltzmann method
-  - Dual Degree Thesis, Indian Institute of Technology, 2025
-  - Advisor: Prof. Kameshwarrao Anupindi
+  - Dual Degree Thesis, IIT Madras, 2025
+  - Advisor: [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/)
 
 # Work experience
 
@@ -79,7 +79,7 @@ redirect_from:
 - NASA ULI Safe Aviation Autonomy Seminar. "Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation"
 - Tata Consultancy Services Research and Innovation Labs. --"-- -->
 
-# Service
+<!-- # Service
 
 <!-- ## Conference Reviewing
 
@@ -111,7 +111,7 @@ redirect_from:
 
 # Mentoring
 
-Mentored underprivileged students for JEE (one of Asia's toughest undergraduate entrance exams) as part of pan-India NGO [Avanti Fellows](https://www.avantifellows.org/).
+- As a mentor with [Avanti Fellows](https://www.avantifellows.org/) from 2021 to 2022, I mentored underprivileged students of Kendriya Vidyala (KV) Pondicherry preparing for JEE — one of Asia’s toughest entrance exams for STEM admissions. My role involved conducting regular doubt-clearing sessions in small groups of five, as well as mentor from one-to-one pairing system. We also helped curate and administer mock tests to help students assess their progress and boost their exam readiness.
 
 # Honors and Awards
 
@@ -137,4 +137,4 @@ Mentored underprivileged students for JEE (one of Asia's toughest undergraduate 
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-For a detailed CV/resume please email me at `na20b053 at smail dot iitm dot ac dot in`
+For a detailed CV/resume please email me.
