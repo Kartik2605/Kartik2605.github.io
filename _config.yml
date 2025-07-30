@@ -82,12 +82,12 @@ google_analytics: UA—163839465-1
 author:
   name: "Kartik Ruikar"
   avatar: "kartik.jpg"
-  bio: "Dual Degree student at IIT Madras"
+  bio: "Incoming PhD student at Monash University, Australia"
   location: "Chennai, India"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar: "https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ" #"http://yourfullgooglescholarurl.com"
-  email: "na20b053@smail.iitm.ac.in"
+  googlescholar: #"https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ" #"http://yourfullgooglescholarurl.com"
+  email: "rkartik@alumni.iitm.ac.in"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -99,15 +99,16 @@ author:
   github: "Kartik2605"
   google_plus:
   keybase:
-  instagram: "/kartik__2605/"
+  instagram: "kartik__2605/"
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "/kartik-ruikar-2605/"
-  leetcode: "/leetcode.com/u/cosmic_26/"
+  linkedin: "kartik-ruikar-2605/"
+  leetcode: "cosmic_26/"
+  medium : "rkartik.inbox"
   orcid: #"http://orcid.org/yourorcidurl"
   pinterest: "rkartikinbox/_created/"
   soundcloud:
-  # stackoverflow: 8421999/nsidn98
+  stackoverflow: #8421999/nsidn98
   steam:
   tumblr:
   twitter: "kartik_2605?t=sHTLd7qXlHnmU-RjKrtt7w&s=08"
