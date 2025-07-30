@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A few of the projects I worked on!"
+title: ##"A few of the projects I worked on!"
 permalink: /project/
 author_profile: true
 redirect_from:
@@ -17,7 +17,7 @@ We started as an interest group under the guidance of [Prof. Sivakumar Srinivasa
 **2D solitary wave simulations using Moving Particle Semi-implicit (MPS) meshfree method in C++ (2023)**  
 *Guide : [Prof. Sriram V](https://home.iitm.ac.in/vsriram/)*
 
-A course project for the OE6020 - Meshfree methods applied to hydrodynamics Fall 2023 course at IIT Madras. In this project, I focused on the Moving Particle Semi-Implicit (MPS) method—a mesh-free approach renowned for its versatility in capturing complex fluid behaviours. It employs particles to represent the fluid, enabling the simulation of dynamic free surfaces and fluid flows with greater flexibility than traditional grid-based methods. The report gives a detail overiew of the model implementation and using it for simulating different 2D waveforms. It is then validated for a 2D solitary wave form against the standard benchmark case from literature. [[PDF]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method/blob/main/Report.pdf) [[Code]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method)
+A course project for the OE6020 - Meshfree methods applied to hydrodynamics Fall 2023 course at IIT Madras. In this project, I focused on the Moving Particle Semi-Implicit (MPS) method—a mesh free approach renowned for its versatility in capturing complex fluid behaviours. It employs particles to represent the fluid, enabling the simulation of dynamic free surfaces and fluid flows with greater flexibility than traditional grid-based methods. The report linked at the end gives a detail overiew of the model implementation and using it for simulating different 2D waveforms. It is then validated for a 2D solitary wave form against the standard benchmark case from literature. [[PDF]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method/blob/main/Report.pdf) [[Code]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method)
 
 **Parallelisation of Classical LBM using OpenACC in C++ and evaluation on 2D lid driven cavity test (2024)**  
 *Guide : [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/)*
