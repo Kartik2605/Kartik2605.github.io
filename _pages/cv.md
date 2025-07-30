@@ -137,4 +137,4 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-For a detailed CV/resume please email me.
+For a detailed resume please email me.
