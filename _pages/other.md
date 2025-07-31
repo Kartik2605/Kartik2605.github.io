@@ -8,19 +8,14 @@ redirect_from:
 ---
 
 # Interests and Hobbies:
+
 ## Sports: ##
-### Formula 1
-I started watching F1 since 2018 and this was one of the things which motivated me to be part of project Agnirath. The amount of engineering which goes on in cutting down a fraction of second in the lap time and improvements done every year in the car has always fascinated me. Adjusting elements such as front-wing angles, toe, and suspension setups for each circuit while pushing the boundaries of innovation within the regulations—like the revolutionary DAS system by Mercedes or the double diffuser by Brawn GP showcases its true pinnacle of motorsports. My favorite constructor has been [Mercedes-AMG Petronas](https://www.mercedesamgf1.com/) and Lewis Hamilton is my favorite driver on the grid.
 
-### Badminton
-I learnt playing badminton during high school and had been part of the school team. I fell in love with the speed and intensity of the game. I re-started working on my game during my undergradute. It is quite astonishing how footwork, which feels challenging to master initially, gradually becomes second nature with practice and effortlessly & agilely cover the court in singles, turning movement into an instinctive part of the game. 
+* **Formula 1** - I started watching F1 since 2018 and this was one of the things which motivated me to be part of project Agnirath. The amount of engineering which goes on in cutting down a fraction of second in the lap time and improvements done every year in the car has always fascinated me. Adjusting elements such as front-wing angles, toe, and suspension setups for each circuit while pushing the boundaries of innovation within the regulations—like the revolutionary DAS system by Mercedes or the double diffuser by Brawn GP showcases its true pinnacle of motorsports. My favorite constructor has been [Mercedes-AMG Petronas](https://www.mercedesamgf1.com/) and Lewis Hamilton is my favorite driver on the grid.
 
-### Cricket
-Have been playing this since my childhood. Represented school team at the competitive levels. Transitioned from a bowler to an all rounder.
+* **Badminton** - I learnt playing badminton during high school and had been part of the school team. I fell in love with the speed and intensity of the game. I re-started working on my game during my undergradute. It is quite astonishing how footwork, which feels challenging to master initially, gradually becomes second nature with practice and effortlessly & agilely cover the court in singles, turning movement into an instinctive part of the game. 
 
-<!-- ### Other sports I follow and play:
-* Football: Liverpool and Bayern M&uuml;nchen (although I prefer Liverpool over Bayern when they compete in Champions League).
-* Tennis: Roger Federer and Novak Djokovic (I know they are rivals!) -->
+* **Cricket** - Have been playing this since my childhood. Represented school team at the competitive levels. Transitioned from a bowler to an all rounder.
 
 ## Music: ##
 ### Instruments
@@ -34,10 +29,14 @@ Along with this, I also like theme songs and scores from Hans Zimmer, Brian Tyle
 Listening to live music has definitely moved up the things I like to do ever since I started playing multiple instruments. Appreciating the musicians skills 
 List of concer -->
 
+
+****************************************
+## Painting: ##
+I generally like drawing naturescape and natural environment. Most of the paintings linked are from the pandemic break. It has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
+
+
 **************************************** 
-
-
-## Languages: ##
+# Languages:
 I can speak 4 languages (and understand 5):
 * English
 * German
@@ -46,8 +45,3 @@ I can speak 4 languages (and understand 5):
 * French
 
 I would like to learn more languages like Mandarin, French and Spanish along with improving upon German.
-
-
-****************************************
-## Painting: ##
-I generally like drawing naturescape and natural environment. Most of the paintings linked are from the pandemic break. It has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
