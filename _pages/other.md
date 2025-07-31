@@ -18,11 +18,10 @@ redirect_from:
 * **Cricket** - Have been playing this since my childhood. Represented school team at the competitive levels. Transitioned from a bowler to an all rounder.
 
 ## Music: ##
-### Instruments
-I learnt to play the tabla from my school teacher and then later took professional training. I learnt couple of years in hindustani classical style. Later during my undergraduate study, started learning ukulele. It was first time I started with string instruments. I also played cajon at an event. I would definitely like to learn a few other instruments like drums and piano sometime.
 
-### Bands/Artists
-My playlist has genres ranging from pop to classical music. My favorite artists include Ed Sheeran, Charlie Puth, Arjit Singh, Adele, Pritam, Imagine Dragon, Eminem and many more. 
+* **Instruments** - I learnt to play the tabla from my school teacher and then later took professional training. I learnt couple of years in hindustani classical style. Later during my undergraduate study, started learning ukulele. It was first time I started with string instruments. I also played cajon at an event. I would definitely like to learn a few other instruments like drums and piano sometime.
+
+* **Bands/Artists** - My playlist has genres ranging from pop to classical music. My favorite artists include Ed Sheeran, Charlie Puth, Arjit Singh, Adele, Pritam, Imagine Dragon, Eminem and many more. 
 Along with this, I also like theme songs and scores from Hans Zimmer, Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)). I also like listening to Ludwig van Beethoven, John Bach, Anotonio Vivaldi.
 
 <!-- ### Concerts:
@@ -32,11 +31,13 @@ List of concer -->
 
 ****************************************
 ## Painting: ##
-I generally like drawing naturescape and natural environment. Most of the paintings linked are from the pandemic break. It has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
+
+- I generally like drawing naturescape and natural environment. Most of the paintings linked are from the pandemic break. It has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
 
 
 **************************************** 
 # Languages:
+
 I can speak 4 languages (and understand 5):
 * English
 * German
