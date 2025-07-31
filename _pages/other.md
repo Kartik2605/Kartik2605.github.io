@@ -45,7 +45,7 @@ List of concer -->
 **************************************** 
 # Languages
 
-I can speak 4 languages (and understand 5):
+I can speak 4 languages (and understand 5)
 * English
 * German
 * Marathi
