@@ -43,7 +43,7 @@ List of concer -->
 
 
 **************************************** 
-# Languages:
+# Languages
 
 I can speak 4 languages (and understand 5):
 * English
