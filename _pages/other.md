@@ -15,7 +15,7 @@ redirect_from:
 
 * **Badminton** - I learnt playing badminton during high school and had been part of the school team. I fell in love with the speed and intensity of the game. I re-started working on my game during my undergradute. It is quite astonishing how footwork, which feels challenging to master initially, gradually becomes second nature with practice and effortlessly & agilely cover the court in singles, turning movement into an instinctive part of the game. 
 
-* **Chess** - I recently started playing chess bit seriously. I love game because of puzzles and honestly, gets addictive as you start winning a few (yeah, got scholars mate in my first tournament).
+* **Chess** - I recently started playing chess bit seriously. I love game because of puzzles and honestly, gets addictive as you start winning a few (yup, got scholars mate first match).
 
 * **Other Sports** - I have played cricket since childhood and ocasionally follow it (ICC tournaments). Represented school team at various competetive events as a right arm off-spinner. I also like to follow olympic games. 
 
