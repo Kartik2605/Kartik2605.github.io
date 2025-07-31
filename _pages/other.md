@@ -7,7 +7,7 @@ redirect_from:
   - /extracurricular-activities
 ---
 
-# Interests and Hobbies:
+# Interests and Hobbies
 
 ## Sports: ##
 
@@ -24,7 +24,7 @@ redirect_from:
 
 - I generally like drawing naturescape and natural environment. I also do sketching and have tried mandala art form. Can check out some of work on [pinterest](https://pin.it/2c8Ym5D8z). Most of the paintings linked are from the pandemic break.
 
-## Reading and Cinema ##
+## Reading and Cinema: ##
 
 * **Books** - I like to read sometimes. I enjoy biographies, fictions, non-fictions. Some of the best reads I had were Shoe dog, Dan brown's series on character Robert Langdon (Origin was the best one honestly), Chaos by James Gleick.
 
