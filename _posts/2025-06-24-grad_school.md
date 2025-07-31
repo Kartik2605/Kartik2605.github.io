@@ -1,5 +1,5 @@
 ---
-title: "How I got PhD position in Aerospace"
+title: "How I got into Graduate School"
 date: 2025-06-24
 tags:
   - graduate school
