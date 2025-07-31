@@ -15,7 +15,20 @@ redirect_from:
 
 * **Badminton** - I learnt playing badminton during high school and had been part of the school team. I fell in love with the speed and intensity of the game. I re-started working on my game during my undergradute. It is quite astonishing how footwork, which feels challenging to master initially, gradually becomes second nature with practice and effortlessly & agilely cover the court in singles, turning movement into an instinctive part of the game. 
 
-* **Cricket** - Have been playing this since my childhood. Represented school team at the competitive levels. Transitioned from a bowler to an all rounder.
+* **Chess** - I recently started playing chess bit seriously. I love game because of puzzles and honestly, gets addictive as you start winning (yeah, got scholars mate in my first tournament). You can connect me on chess.com [here](https://www.chess.com/member/cosmic_26), to play.
+
+* **Other Sports** - I have played cricket since childhood and ocasionally follow it (ICC tournaments). Represented school team at various competetive events as a right arm off-spinner. I also like to follow olympic games. 
+
+
+## Painting: ##
+
+- I generally like drawing naturescape and natural environment. Most of the paintings linked are from the pandemic break. It has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
+
+## Reading and Cinema ##
+
+- I like to read sometimes. I enjoy biographies, fictions, non-fictions. Some of the best reads I had were Shoe dog, Dan brown's series on character Robert Langdon (Origin was the best one honestly), Chaos by James Gleick.
+
+- I am not a cinephile but most times I love to watch movies or webseries instead reading. My playlist has generes from sci-fiction, action to drama, classics. Some of my favourites are Arrival, Interstellar, Mission impossible series and Dark, Narcos, Modern Family web series.
 
 ## Music: ##
 
@@ -27,12 +40,6 @@ Along with this, I also like theme songs and scores from Hans Zimmer, Brian Tyle
 <!-- ### Concerts:
 Listening to live music has definitely moved up the things I like to do ever since I started playing multiple instruments. Appreciating the musicians skills 
 List of concer -->
-
-
-****************************************
-## Painting: ##
-
-- I generally like drawing naturescape and natural environment. Most of the paintings linked are from the pandemic break. It has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
 
 
 **************************************** 
