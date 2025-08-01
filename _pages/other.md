@@ -26,7 +26,7 @@ redirect_from:
 
 ## Reading and Cinema: ##
 
-* **Books** - I like to read sometimes. I enjoy biographies, fictions, non-fictions. Some of the best reads I had so far were Shoe Dog, Dan brown's series on character Robert Langdon (Origin is my favourite of them), Chaos by James Gleick and few more.
+* **Books** - I like to read sometimes. I enjoy biographies, fictions, non-fictions. Some of the best reads I had so far were Shoe Dog, Dan brown's series on character Robert Langdon (Origin is my favourite of them), Chaos by James Gleick and a few more.
 
 * **Movies** - I am not a cinephile but most times I love to watch movies or webseries instead reading. My playlist has generes from sci-fictions, dramas to comedy, sitcoms. Some of my favourites include Arrival, Interstellar, Mission impossible series; Dark, Narcos, Game of thrones web series and many more. Big Bang Theory is my favourite sitcom.
 
@@ -44,11 +44,10 @@ List of concer -->
 **************************************** 
 # Languages
 
-I can speak 4 languages (and understand 5)
+I can speak and understand 4 languages
 * English
 * German
 * Marathi
 * Hindi
-* French
 
 I would like to learn more languages like Mandarin, French and Spanish along with improving upon German.
