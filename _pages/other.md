@@ -15,7 +15,7 @@ redirect_from:
 
 * **Badminton** - I learnt playing badminton during high school and had been part of the school team. I fell in love with the speed and intensity of the game. I re-started working on my game during my undergradute with some of my friends.
 
-* **Chess** - I've recently started playing chess, and I'm really enjoying it — especially the thrill and addictive feeling you get after winning a few matches. If you'd like to play together, you can find me on Chess.com ([cosmic_26](https://www.chess.com/member/cosmic_26)).
+* **Chess** - I've recently started playing chess, and I'm really enjoying it — especially the thrill and addictive feeling you get after winning a few matches. If you'd like to play together, you can find me on Chess.com [here](https://www.chess.com/member/cosmic_26).
 
 * **Other Sports** - I have played cricket since childhood and ocasionally follow it (ICC tournaments). Represented school team at couple of competetive events as a right arm off-spinner. I also like to play video games like RDR2, COD.
 
