@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- I am an incoming Phd candidate in Mechanical & Aerospace engineering department at Monash university, Australia. I completed bachelors in Ocean engineering and integrated masters in Computational engineering at IIT Madras. My primary research interests lie in high-fidelity simulation methods for turbulence physics, with a strong focus on their applications to real-world engineering challenges. I am also very excited about data-driven methodologies like data assimilation that combine deep learning with traditional models to advance solutions in this domain. -->
 
-I completed bachelors in Ocean engineering and integrated masters in Computational engineering at IIT Madras. My primary research interests lie in high-fidelity simulation methods for turbulence physics, with a strong focus on their applications to real-world engineering challenges. I am also very excited about data-driven methodologies like data assimilation that combine deep learning with traditional models to advance solutions in this domain.
+I completed dual degree with bachelors in Ocean engineering and integrated masters in Computational engineering from IIT Madras. My primary research interests lie in high-fidelity simulation methods for turbulence physics, with a strong focus on their applications to real-world engineering challenges. I am also very excited about data-driven methodologies like data assimilation that combine deep learning with traditional models to advance solutions in this domain.
 
 My dual degree thesis project was based on GPU-accelerated large eddy simulations using Simple and Highly Stable Lattice Boltzmann method :
 
