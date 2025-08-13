@@ -82,7 +82,8 @@ google_analytics: UA—163839465-1
 author:
   name: "Kartik Ruikar"
   avatar: "kartik.jpg"
-  bio: "Incoming PhD student at Monash University, Australia"
+  # bio: "Incoming PhD student at Monash University, Australia"
+  bio : "IIT Madras graduate"
   location: "Chennai, India"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
