@@ -49,7 +49,7 @@ redirect_from:
 
 - SkyServe.ai, Remote, India, Machine Learning Intern, Spring 2023
 
-  - Advisor: [CPO Mr. Adithya Kothandhapani](https://www.skyserve.ai/)
+  - Company: [SkyServe.ai](https://www.skyserve.ai/)
     - Collaboratively developed a UNet-based building detection solution on Sentinel-2 data, utilizing a pre-trained ResNet50 encoder under
     guidance from a former ISRO group director.
     - Enhanced dataset quality by 5% by refining ROI selection and automating diverse Sentinel-2 image extraction via Google Earth Engine to mitigate model bias.
