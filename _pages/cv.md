@@ -39,14 +39,6 @@ redirect_from:
     conducted simulations for carbon dioxide and propane mixture.
     - Conducted a model comparison study for RANS models using Fluent, and found that the k-omega SST with perfect gas equation produced closest results to experimental cold-mass fractions values.
 
-- Ocean Engineering Dept, IIT Madras, Undergraduate Research Assistant, Summer 2022
-
-  - Advisor: [Prof. Sriram V](https://home.iitm.ac.in/vsriram/)
-    - Familiarized myself with the extensive in-house code base in C and conducted literature review.
-    - Developed and tested sub-routines for patching multiple bodies with complex geometries using the immersed boundary method. Also force calculation routine for fluid-structure interaction.
-    - Simulated gap resonance problem in moonpools. Validated results for a two fixed barge geometries case for various wave headings against established benchmarks in the literature.
-    - I updated the professor on my progress through weekly group meetings, where we presented and discussed the research each member was working on.
-
 - SkyServe.ai, Remote, India, Machine Learning Intern, Spring 2023
 
   - Company: [SkyServe.ai](https://www.skyserve.ai/)
