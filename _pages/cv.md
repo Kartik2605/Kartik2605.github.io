@@ -103,7 +103,7 @@ redirect_from:
 
 # Mentoring
 
-- As a mentor with [Avanti Fellows](https://www.avantifellows.org/) from 2021 to 2022, I mentored underprivileged students of Kendriya Vidyala (KV) Pondicherry preparing for JEE — one of Asia’s toughest entrance exams for STEM admissions. My role involved conducting regular doubt-clearing sessions in small groups of five, as well as mentor from one-to-one pairing system. We also helped curate and administer mock tests to help students assess their progress and boost their exam readiness.
+- As a mentor from 2021 to 2022 with [Avanti Fellows](https://www.avantifellows.org/) - a PAN-India NGO, I mentored underprivileged students of Kendriya Vidyala (KV) Pondicherry preparing for JEE — one of Asia’s toughest entrance exams for STEM admissions. My role involved conducting regular doubt-clearing sessions in small groups of five, as well as mentor from one-to-one pairing system. We also helped curate and administer mock tests to help students assess their progress and boost their exam readiness.
 
 # Honors and Awards
 
