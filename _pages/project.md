@@ -1,7 +1,7 @@
 ---
 layout: archive
 # title: "A few of the projects I worked on!"
-# permalink: /project/
+permalink: /project/
 author_profile: true
 redirect_from:
   - /extracurricular-activities
