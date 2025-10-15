@@ -3,7 +3,7 @@ title: "Assessment of sub-grid scale models using simplified lattice Boltzmann m
 collection: publications
 permalink: /publication/packman
 date: 2025-10-14
-venue: 'INCOTHERM Conference'
+venue: 'international conference INCOTHERM'
 ---
 Authors: **Kartik Ruikar**, Kiran Sivadas, Kameswararao Anupindi
 
