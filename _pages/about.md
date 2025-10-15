@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am an incoming Phd candidate in Mechanical & Aerospace engineering department at Monash university, Australia. I completed bachelors in Ocean engineering and integrated masters in Computational engineering at IIT Madras. My primary research interests lie in high-fidelity simulation methods for turbulence physics, with a strong focus on their applications to real-world engineering challenges. I am also very excited about data-driven methodologies like data assimilation that combine deep learning with traditional models to advance solutions in this domain. -->
 
-I completed dual degree with bachelors in Ocean engineering and integrated masters in Computational engineering from IIT Madras. My primary research interests lie in high-fidelity simulation methods for turbulence physics, with a strong focus on their applications to real-world engineering challenges. I am also very excited about data-driven methodologies like data assimilation that combine deep learning with traditional models to advance solutions in this domain.
+I completed dual degree with bachelors in Ocean engineering and integrated masters in Computational engineering from IIT Madras. My primary research interests lie in developement of numerical methods for high-fidelity simulation of turbulence physics. I am also very interested in data-driven approaches like data-assimilation and surrogate modeling to utlise the data from high-fidelity simulations to advance predictive capabilities in simulation solutions.
 
 My dual degree thesis project was based on GPU-accelerated large eddy simulations using Simple and Highly Stable Lattice Boltzmann method :
 
@@ -19,7 +18,7 @@ My dual degree thesis project was based on GPU-accelerated large eddy simulation
 - Validation for free shear flow (circular jet flow case at Re 8.4k)
 - Application of validated model and optimal simulation approach to indoor model room ventilation case
 
-<!--- **I am currently looking for PhD positions (Fall - 2025)**. -->
+- **I am currently looking for PhD positions (Fall - 2026)**.
 
 In addition to my research, I like playing musical instruments like tabla, ukulele, cajon. I am also into sketching, acrylic painting, playing badminton, chess, reading, and watching movies and web series. You can find some of my artwork on my [pinterest](https://pin.it/2c8Ym5D8z).
 
