@@ -28,8 +28,8 @@ redirect_from:
     - Developed GPU-accelerated LES modules for solver using OpenACC, implementing subgrid-scale (SGS) models and synthetic eddy method for realistic inlet turbulence generation.
     - Conducted validation study comparing SGS models (Smagorinsky, Vreman, WALE, Sigma) for wall-bounded (lid-driven cavity) and free-shear (jet flow) cases, identifying optimal approach.
     - Applied validated models and approach to a model room ventilation flow case, achieving good agreement ( 20% mean deviation error) with experimental data from a reference study.
-    - Accepted to present these findings at the upcoming [INCOTHERM](https://people.iitism.ac.in/~incotherm2025/home.html) conference, with plans for subsequent first author journal publication.
-
+    - Presented these findings at the international conference on thermofluids [INCOTHERM 2025](https://people.iitism.ac.in/~incotherm2025/home.html).
+    
 - LMFTEUS, Universite de Sherbrooke, Research Intern, Summer 2023
 
   - Advisor: [Prof. Sebastian Poncet](https://lmfteus.wordpress.com/team/)
