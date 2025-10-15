@@ -16,7 +16,7 @@ redirect_from:
 
 # Thesis
 
-- GPU-accelerated large eddy simulations using simplified lattice boltzmann method [pdf](https://drive.google.com/file/d/18XqFL9qkuXe49q5lFDOUD5B7Z2woCeKZ/view?usp=sharing)
+- GPU-accelerated large eddy simulations using simplified lattice boltzmann method [[pdf]](https://drive.google.com/file/d/18XqFL9qkuXe49q5lFDOUD5B7Z2woCeKZ/view?usp=sharing)
   - Dual Degree Thesis, IIT Madras, 2025
   - Advisor: [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/)
 
