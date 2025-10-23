@@ -18,9 +18,9 @@ My dual degree thesis project was based on GPU-accelerated large eddy simulation
 - Validation for free shear flow (circular jet flow case at Re 8.4k)
 - Application of validated model and optimal simulation approach to indoor model room ventilation case
 
-<!-- <p style="text-align: center; font-weight: bold;">
+<p style="text-align: center; font-weight: bold;">
   I am currently looking for PhD positions (Fall - 2026)
-</p> -->
+</p>
 
 In addition to my research, I like playing musical instruments like tabla, ukulele, cajon. I am also into sketching, acrylic painting, playing badminton, chess, reading, and watching movies and web series. You can find some of my artwork on my [pinterest](https://pin.it/2c8Ym5D8z).
 
