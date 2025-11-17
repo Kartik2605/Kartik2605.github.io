@@ -22,7 +22,15 @@ redirect_from:
 
 # Work experience
 
-- Mechanical Dept, IIT Madras, Graduate Research Assistant, May 2024 - June 2025
+- Project Assistant, Aerospace Dept, IIT Madras, India, Nov 2025 - Present
+  - Advisor: [Prof. Nagabhushana Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html)
+    - Deep learning based approach to correct sub-precision error in single precision high-fidelity simulations.
+    - Quantifying precision-related errors in primitive variables and reynolds stresses for float64, float32
+    and bfloat16 precision DNS of unsteady turbulent flow cases.
+    - Future work involves coupling and testing ML-CFD approach to correct sub-precision errors in low
+    precision simulations, aiming to reduce memory use and enable faster high-fidelity simulations.
+
+- Graduate Research Assistant, Mechanical Dept, IIT Madras, India, May 2024 - June 2025
 
   - Advisor: [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/)
     - Developed GPU-accelerated LES modules for solver using OpenACC, implementing subgrid-scale (SGS) models and synthetic eddy method for realistic inlet turbulence generation.
@@ -30,7 +38,7 @@ redirect_from:
     - Applied validated models and approach to a model room ventilation flow case, achieving good agreement ( 20% mean deviation error) with experimental data from a reference study.
     - Presented these findings at the international conference on thermofluids [INCOTHERM 2025](https://people.iitism.ac.in/~incotherm2025/home.html).
     
-- LMFTEUS, Universite de Sherbrooke, Research Intern, Summer 2023
+- Research Intern, LMFTEUS, Universite de Sherbrooke, Canada, Summer 2023
 
   - Advisor: [Prof. Sebastian Poncet](https://lmfteus.wordpress.com/team/)
     - Motivation was to develop a carbon dioxide and propane mixture that stays subcritical during separation, offering higher energy efficiency than pure carbon dioxide while reducing flammability risks of pure propane.
@@ -39,7 +47,7 @@ redirect_from:
     conducted simulations for carbon dioxide and propane mixture.
     - Conducted a model comparison study for RANS models using Fluent, and found that the k-omega SST with perfect gas equation produced closest results to experimental cold-mass fractions values.
 
-- SkyServe.ai, Remote, India, Machine Learning Intern, Spring 2023
+- Machine Learning Intern, SkyServe.ai, India (Remote), Spring 2023
 
   - Company: [SkyServe.ai](https://www.skyserve.ai/)
     - Collaboratively developed a UNet-based building detection solution on Sentinel-2 data, utilizing a pre-trained ResNet50 encoder under
