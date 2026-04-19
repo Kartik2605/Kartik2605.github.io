@@ -24,11 +24,9 @@ redirect_from:
 
 - Project Assistant, Aerospace Dept, IIT Madras, India, Nov 2025 - Present
   - Advisor: [Prof. Nagabhushana Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html)
-    - Deep learning based approach to correct sub-precision error in single precision high-fidelity simulations.
-    - Quantifying precision-related errors in primitive variables and reynolds stresses for float64, float32
-    and bfloat16 precision DNS of unsteady turbulent flow cases.
-    - Future work involves coupling and testing ML-CFD approach to correct sub-precision errors in low
-    precision simulations, aiming to reduce memory use and enable faster high-fidelity simulations.
+    - Evaluated precision impacts (FP64/FP32/BFloat16) on turbulence statistics using explicit higher-order scheme based in-house solver.
+    - Optimized GPU performance by porting possible explicit arithmetics into matrix operations to leverage tensor-core acceleration of GPU architecture.
+    - Experimenting a filter-based method using the data generated to model from FP32 to FP64 using error scales in lower precision and deep learning method to learn filter function.
 
 - Graduate Research Assistant, Mechanical Dept, IIT Madras, India, May 2024 - June 2025
 
