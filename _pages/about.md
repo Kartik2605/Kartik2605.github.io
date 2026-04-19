@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I completed dual degree with bachelors in Ocean engineering and integrated masters in Computational engineering from IIT Madras. My research interests lie in developement of advance high-fidelity numerical methods and high-performance computing for simulation of turbulent flows in application oriented problems. I am also very interested in low order data-driven modeling, PINN's to utlise the data from these high-fidelity simulations.
+I completed dual degree with bachelors in Ocean engineering and integrated masters in Computational engineering from IIT Madras. My interests lie in high-fidelity turbulence simulations (LES/DNS), high performance computing, particularly in application-oriented problems. I am also intrested to explore data-driven approaches to utlise the data from these high-fidelity simulations.
 
 My dual degree thesis project was based on GPU-accelerated large eddy simulations using Simple and Highly Stable Lattice Boltzmann method :
 
