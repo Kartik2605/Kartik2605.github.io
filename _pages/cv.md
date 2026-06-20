@@ -107,7 +107,7 @@ redirect_from:
 
 - Coordinated and attended GIAN course High Fidelity Lattice Boltzmann Methods: From Theory to Practice by Prof. Martin Geier (2025) 
 
-- Coordination and Cooperation in Turbulence Modeling Framework: From Theory to Engineering Practice (TMF) (2026)
+- Coordination and Cooperation in Turbulence Modeling Framework: From Theory to Engineering Practice (2026)
 
 # Mentoring
 
