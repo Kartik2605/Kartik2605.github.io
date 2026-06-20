@@ -45,13 +45,13 @@ redirect_from:
     conducted simulations for carbon dioxide and propane mixture.
     - Conducted a model comparison study for RANS models using Fluent, and found that the k-omega SST with perfect gas equation produced closest results to experimental cold-mass fractions values.
 
-- Machine Learning Intern, SkyServe.ai, India (Remote), Spring 2023
+<!-- - Machine Learning Intern, SkyServe.ai, India (Remote), Spring 2023
 
   - Company: [SkyServe.ai](https://www.skyserve.ai/)
     - Collaboratively developed a UNet-based building detection solution on Sentinel-2 data, utilizing a pre-trained ResNet50 encoder under
     guidance from a former ISRO group director.
     - Enhanced dataset quality by 5% by refining ROI selection and automating diverse Sentinel-2 image extraction via Google Earth Engine to mitigate model bias.
-    - Integrated the optimized model into the company’s website for real-time predictions, aligning with required needs after an extensive literature review and different architectures exploration.
+    - Integrated the optimized model into the company’s website for real-time predictions, aligning with required needs after an extensive literature review and different architectures exploration. -->
 
 
 # Skills
@@ -103,9 +103,11 @@ redirect_from:
 - [NeurIPS 2024 Workshop on Multimodal Algorithmic Reasoning](https://marworkshop.github.io/neurips24/) @NeurIPS (2024)
 - [Robotic Tasks and How to Specify Them?](https://sites.google.com/view/rss-taskspec) @RSS (2024) -->
 
-<!-- # Workshop Organisation
+# Workshop Organisation
 
-- [Coordination and Cooperation in Multi-Agent Reinforcement Learning](https://sites.google.com/view/cocomarl-2024/home) (CoCoMARL) @RLC 2024 -->
+- Coordinated and attended GIAN course High Fidelity Lattice Boltzmann Methods: From Theory to Practice by Prof. Martin Geier (2025) 
+
+- Coordination and Cooperation in Turbulence Modeling Framework: From Theory to Engineering Practice (TMF) (2026)
 
 # Mentoring
 
