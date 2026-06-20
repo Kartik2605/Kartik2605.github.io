@@ -89,7 +89,8 @@ author:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: #"https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ" #"http://yourfullgooglescholarurl.com"
   email: "rkartik@alumni.iitm.ac.in"
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate: "https://www.researchgate.net/profile/Kartik-Ruikar-2"
+  orcid: "https://orcid.org/my-orcid?orcid=0009-0009-5816-4490"
   uri:
   bitbucket:
   codepen:
@@ -100,13 +101,12 @@ author:
   github: "Kartik2605"
   google_plus:
   keybase:
-  instagram: "kartik__2605/"
+  instagram: #"kartik__2605/"
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "kartik-ruikar-2605/"
   leetcode: "cosmic_26/"
   medium : #"rkartik.inbox"
-  orcid: #"http://orcid.org/yourorcidurl"
   pinterest: #"rkartikinbox/_created/"
   soundcloud:
   stackoverflow: #8421999/nsidn98
