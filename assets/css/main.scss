@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Project page: description + side media */
+.project { display: flex; gap: 1.5em; align-items: flex-start; margin-bottom: 1.5em; }
+.project-text { flex: 1 1 60%; min-width: 0; }
+.project-media { flex: 0 0 35%; }
+.project-media img, .project-media video { width: 100%; height: auto; border-radius: 4px; margin-bottom: 0.5em; }
+.project-media figcaption { font-size: 0.75em; text-align: center; }
+@media (max-width: 768px) { .project { flex-direction: column; } .project-media { width: 100%; } }

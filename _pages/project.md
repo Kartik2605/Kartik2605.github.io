@@ -6,15 +6,46 @@ author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
+<!--
+  Media for each project goes in /images/projects/.
+  Image or GIF:  <img src="/images/projects/NAME.gif" alt="...">
+  Video (mp4):   <video src="/images/projects/NAME.mp4" autoplay loop muted playsinline></video>
+  Add more <figure> blocks to stack several items. Delete the whole project-media div if a project has no media.
+-->
+
 ## Co-founder and Aerodynamcis Lead at Agnirath (2021 - 2024)
 *[Agnirath](https://www.agnirath.in/) - Student team of IIT Madras that designs solar-powered cars and represents India at international competetions like World Solar Challenge*
 
+<div class="project" markdown="1">
+<div class="project-text" markdown="1">
 We started as an interest group under the guidance of [Prof. Sivakumar Srinivasan](https://iitm.irins.org/profile/10107#experience_information_panel), and eventually grew to a team of 30+ passionate individuals. I led and worked on the aerodynamics & cooling subsystem of the car, collaborating closely with our aerodynamics advisor, [Prof. Vishwanathan Babu](https://iitm.irins.org/profile/10330). In this subsystem, we modeled and simulated external turbulent airflow, conducted moving ground simulations, and managed heat and airflow in our active battery thermal management system, as well as ventilation inside the cockpit. We mostly worked with the Generalised k-omega model using Ansys Fluent and MATLAB scripts for specific requirements. To validate our CFD results, we collaborated with scientists from [National Aerospace laboratory](https://www.nal.res.in/), India and conducted wind tunnel (low-speed) tests for a 1:6 scaled model. This involved aerodynamic force calculations, the oil flow method, and Particle Image Velocimetry to visualize flow and separation regions. Also, we conducted a thermal performance test of our variable-height motor controller heat sink in an environmental chamber to validate our CFD results. It led us to file a patent for our novel heat sink design. After our initial efforts, we moved to the manufacturing phase where I worked on the vacuum infusion process for manufacturing the aeroshell out of glass fiber composite panels. I also managed the egress system, virtual validation of all components assembly in CAD. The year 2023 brought a pivotal moment: we secured a huge sole sponsorship for our venture. All the hard work paid off and eventually we represented India at the World Solar Challenge 2023. 
+</div>
+<div class="project-media">
+  <figure>
+    <img src="/images/projects/agnirath-car.jpg" alt="Agnirath solar car">
+    <figcaption>Agnirath solar car at WSC 2023</figcaption>
+  </figure>
+  <figure>
+    <video src="/images/projects/agnirath-cfd.mp4" autoplay loop muted playsinline></video>
+    <figcaption>External aerodynamics CFD</figcaption>
+  </figure>
+</div>
+</div>
 
 ## Simulating gap resonance for moonpools using IITM-RANS3D solver (Summer 2022)
 *Advisor : [Prof. Sriram V](https://home.iitm.ac.in/vsriram/)*
 
+<div class="project" markdown="1">
+<div class="project-text" markdown="1">
 I worked as an undergraduate researcher in the Ocean Engineering Department at IIT Madras at Prof. Sriram's lab. My initial focus was on familiarizing myself with the code base of solver written in C and conducting a thorough literature review to understand the underlying methodologies. The solver uses Fully Non-linear Potential Theory (FNPT) to generate waves immitating wave generator from experiments and is coupled with RANS to solve for physical unkowns in the region of interest in the domain. I developed and tested sub-routines for patching multiple bodies with complex geometries using the immersed boundary method, and also implemented a force calculation routine for fluid-structure interaction problems. After this, I worked on simulation of gap resonance phenomena in moonpools, where I validated results for two fixed barge geometries across various wave headings against established benchmarks from the literature. During this time, I regularly updated Prof. Sriram and the research group on my progress during weekly meetings, where we presented and discussed our ongoing work. The IITM-RANS3D solver is open source; to see the detailed documentation, know about it, and download the software, click [here](https://home.iitm.ac.in/vsriram/index.php/research/iitm-rans3d/).
+</div>
+<div class="project-media">
+  <figure>
+    <img src="/images/projects/moonpool.gif" alt="Moonpool gap resonance simulation">
+    <figcaption>Gap resonance in a moonpool</figcaption>
+  </figure>
+</div>
+</div>
 
 ## Course Projects:
 ****************************************
@@ -22,12 +53,32 @@ I worked as an undergraduate researcher in the Ocean Engineering Department at I
 **2D solitary wave simulations using Moving Particle Semi-implicit (MPS) meshfree method in C++ (2023)**  
 *Guide : [Prof. Sriram V](https://home.iitm.ac.in/vsriram/)*
 
+<div class="project" markdown="1">
+<div class="project-text" markdown="1">
 A course project for the OE6020 - Meshfree methods applied to hydrodynamics Fall 2023 course at IIT Madras. In this project, I focused on the Moving Particle Semi-Implicit (MPS) method—a mesh free approach renowned for its versatility in capturing complex fluid behaviours. It employs particles to represent the fluid, enabling the simulation of dynamic free surfaces and fluid flows with greater flexibility than traditional grid-based methods. The report linked at the end gives a detail overiew of the model implementation and using it for simulating different 2D waveforms. It is then validated for a 2D solitary wave form against the standard benchmark case from literature. [[PDF]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method/blob/main/Report.pdf) [[Code]](https://github.com/Kartik2605/2D-Wave-simulation-using-Moving-Particle-Implicit-method)
+</div>
+<div class="project-media">
+  <figure>
+    <img src="/images/projects/mps-solitary-wave.gif" alt="MPS solitary wave simulation">
+    <figcaption>2D solitary wave using MPS</figcaption>
+  </figure>
+</div>
+</div>
 
 **Parallelisation of Classical LBM using OpenACC in C++ and evaluation on 2D lid driven cavity test (2024)**  
 *Guide : [Prof. Kameshwarrao Anupindi](https://home.iitm.ac.in/kanupindi/)*
 
+<div class="project" markdown="1">
+<div class="project-text" markdown="1">
 A course project for the ID5130 - Parallel Scientific Computing Spring 2024 course at IIT Madras. This project presents the implementation of a classical Lattice Boltzmann Method (LBM) in C++ and its parallelization using OpenACC. The LBM is a technique for simulating fluid flow by modeling the microscopic dynamics of particle distributions on a lattice. The LBM solver exhibits significant potential for parallelization, particularly in the collision and streaming steps. In this project, two main blocks of parallelism are utilized: the first block handles memory allocation for all variables and initialization on the GPU, while the second block operates within a while loop, managing iterations until convergence. It performs streaming and collision step updates on GPU and transfers error values. Upon convergence, the GPU transfers the complete solution to the CPU for further post-processing. [[PDF]](https://github.com/Kartik2605/GPU-Parallelised-Classical-LBM-and-evaluation-on-2D-Lid-Driven-cavity-test./blob/main/Report.pdf) [[Code]](https://github.com/Kartik2605/GPU-Parallelised-Classical-LBM-and-evaluation-on-2D-Lid-Driven-cavity-test.)
+</div>
+<div class="project-media">
+  <figure>
+    <img src="/images/projects/lbm-cavity.gif" alt="Lid driven cavity LBM result">
+    <figcaption>Lid-driven cavity flow using LBM</figcaption>
+  </figure>
+</div>
+</div>
 
 
 ## Mini Projects:

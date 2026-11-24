@@ -38,7 +38,7 @@ redirect_from:
     
 - Research Intern, LMFTEUS, Universite de Sherbrooke, Canada, Summer 2023
 
-  - Advisor: [Prof. Sebastian Poncet](https://lmfteus.wordpress.com/team/)
+  - Advisor: [Prof. Sebastian Poncet](https://lmfeus.wordpress.com/)
     - Motivation was to develop a carbon dioxide and propane mixture that stays subcritical during separation, offering higher energy efficiency than pure carbon dioxide while reducing flammability risks of pure propane.
     - Conducted Ranque-Hilsch vortex tube experiments with pure carbon dioxide and generated validation data.
     - Simulated pure carbon dioxide for operating conditions from experiments and validated CFD model and numerical procedure. Later
@@ -57,20 +57,17 @@ redirect_from:
 # Skills
 
 - Deep Learning
-- Foundational Turbulence modelling
 - Large Eddy Simulations
 - Lattice Boltzmann modelling
-- Parallel Computing
+- C/C++, FORTRAN
   - OpenMP
   - MPI
   - OpenACC, CUDA
 - Python
   - TensorFlow
   - OpenCV
-- C, C++
-- FORTRAN
+- MATLAB, Paraview, Tecplot
 - Ansys, Solidworks
-- MATLAB, Paraview
 
 <!-- # Talks
 
@@ -103,20 +100,20 @@ redirect_from:
 - [NeurIPS 2024 Workshop on Multimodal Algorithmic Reasoning](https://marworkshop.github.io/neurips24/) @NeurIPS (2024)
 - [Robotic Tasks and How to Specify Them?](https://sites.google.com/view/rss-taskspec) @RSS (2024) -->
 
-# Workshop Organisation
+# Workshop Participation & Organisation
 
-- Coordinated and attended GIAN course High Fidelity Lattice Boltzmann Methods: From Theory to Practice by Prof. Martin Geier (2025) 
+- GIAN course on High Fidelity Lattice Boltzmann Methods: From Theory to Practice by Prof. Martin Geier (2025) 
 
-- Coordination and Cooperation in Turbulence Modeling Framework: From Theory to Engineering Practice (2026)
+- Turbulence Modeling Framework: From Theory to Engineering Practice (2026)
 
 # Mentoring
 
-- Mentor from 2021 to 2022 with [Avanti Fellows](https://www.avantifellows.org/) - a PAN-India NGO. We mentored underprivileged students of Kendriya Vidyala (KV) Pondicherry preparing for JEE — one of Asia’s toughest entrance exams for STEM admissions.
+- Member from 2021 to 2022 at [Avanti Fellows](https://www.avantifellows.org/) - a PAN-India NGO. We mentored underprivileged students of Kendriya Vidyala Pondicherry preparing for JEE exam — one of Asia’s toughest entrance exams for STEM admissions.
 
-# Honors and Awards
+# Honors
 
 - MITACS Globalink Fellowship for undergraduate research internship at Universite de Sherbrooke, Montreal. (2023)
-- Top 1% rank in the IIT-Joint Entrance Examination and 1 in physics at MHT-CET (2020)
+- Top 1% rank in the IIT-Joint Entrance Examination and rank 1 in physics at MHT-CET (2020)
 
 # Relevant Coursework
 
